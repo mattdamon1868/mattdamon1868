@@ -2,7 +2,7 @@
 
 Robotics engineer with a background in Mechatronics and Mechanical engineering focused in robotic control and autonomy. I am interested in autonomy engineering in robotic autonomous systems. I developed novel research in university that expands the 
 
-## Background
+## Education
 - 🎓 M.S. Mechanical Engineering (Robotics & Control), San Diego State University, May 2024 * B.S. Mechatronic Engineering, CSU Chico, May 2018
 
 ## Tech Familiarity
