@@ -17,3 +17,6 @@ Robotics engineer with a background in Mechatronics and Mechanical engineering f
 ## Research 
 
 **Abstract**
+
+## 📈GitHub stats
+![](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
