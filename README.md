@@ -4,3 +4,6 @@ Robotics engineer with a background in mechatronics and mechanical engineering f
 
 ## Background
 - 🎓 M.S. Mechanical Engineering (Robotics & Control) * B.S. Mechatronic Engineering, CSU Chico
+
+## Tech Familiarity
+![ROS](https://img.shields.io/badge/-ROS%2FROS2-22314E?style=flat&logo=ros&logoColor=white)
