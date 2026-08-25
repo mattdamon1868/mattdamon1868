@@ -16,9 +16,9 @@ Robotics engineer with a background in Mechatronics and Mechanical engineering f
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-## Research 
+## Publication 
 
-**Abstract**
+* [Servos for Local Map Exploration Onboard Nonholonomic Vehicles for Extremum Seeking](https://ieeexplore.ieee.org/document/11625974/keywords#keywords)
 
 ## 📈GitHub stats
 [![mattdamon1868](https://github-stats-extended.vercel.app/api?username=mattdamon1868)](https://github.com/stats-organization/github-stats-extended)
