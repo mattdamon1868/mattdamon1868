@@ -1,11 +1,11 @@
 # Hey I'm Dylan James-Kavanaugh 👋🤖
 
-Robotics engineer with a background in Mechatronics and Mechanical engineering focused in robotic control and autonomy. I am interested in autonomy engineering in robotic autonomous systems. I developed novel research in university that expands the 
+Robotics engineer with a background in Mechatronics and Mechanical engineering focused in robotic control and autonomy. I am interested in autonomy, sensor fusion, and robot learning for autonomous systems.
 
 ## Education
 - 🎓 M.S. Mechanical Engineering (Robotics & Control), San Diego State University, May 2024 * B.S. Mechatronic Engineering, CSU Chico, May 2018
 
-## Tech Familiarity
+## Skills
 ### Software
 ![ROS](https://img.shields.io/badge/-ROS%2FROS2-22314E?style=flat&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/-Gazebo-FF6600?style=flat&logo=gazebo&logoColor=white)
