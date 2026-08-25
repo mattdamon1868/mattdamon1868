@@ -19,4 +19,4 @@ Robotics engineer with a background in Mechatronics and Mechanical engineering f
 **Abstract**
 
 ## 📈GitHub stats
-![mattdamon1868](https://github-readme-stats.vercel.app/api?username=mattdamon1868&show_icons=true&theme=tokyonight)
+[![mattdamon1868](https://github-stats-extended.vercel.app/api?username=mattdamon1868)](https://github.com/stats-organization/github-stats-extended)
