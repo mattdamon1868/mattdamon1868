@@ -18,7 +18,21 @@ Robotics engineer with a background in Mechatronics and Mechanical engineering f
 
 ## Publication 
 
-* [Servos for Local Map Exploration Onboard Nonholonomic Vehicles for Extremum Seeking](https://ieeexplore.ieee.org/document/11625974/keywords#keywords)
+1) [Servos for Local Map Exploration Onboard Nonholonomic Vehicles for Extremum Seeking](https://ieeexplore.ieee.org/document/11625974/keywords#keywords)
+
+If you are a fellow researcher in the robotics/controls systems industry please use the following citation for the work.
+```latex
+@ARTICLE{11625974,
+  author={James-Kavanaugh, Dylan and McNamee, Patrick and Wang, Qixu and Nili Ahmadabadi, Zahra},
+  journal={IEEE Transactions on Control Systems Technology}, 
+  title={Servos for Local Map Exploration Onboard Nonholonomic Vehicles for Extremum Seeking}, 
+  year={2026},
+  volume={34},
+  number={5},
+  pages={2733-2748},
+  keywords={Image sensors;Vehicles;Modeling;Timing;Servomotors;Vectors;Convergence;Demodulation;Matrices;Terminology;Extremum seeking control (ESC);optimization;source seeking},
+  doi={10.1109/TCST.2026.3713366}}
+```
 
 ## 📈GitHub stats
 [![mattdamon1868](https://github-stats-extended.vercel.app/api?username=mattdamon1868)](https://github.com/stats-organization/github-stats-extended)
