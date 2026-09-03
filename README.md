@@ -27,8 +27,9 @@ Robotics engineer with a background in Mechatronics and Mechanical engineering f
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg", height="40" alt= "python logo"/>
   <img width="12" /> 
 </div>
-## Publication 
 
+
+## Publication 
 1) [Servos for Local Map Exploration Onboard Nonholonomic Vehicles for Extremum Seeking](https://ieeexplore.ieee.org/document/11625974/keywords#keywords)
 
 If you are a fellow researcher in the robotics/controls systems industry please use the following citation for the work.
