@@ -7,16 +7,25 @@ Robotics engineer with a background in Mechatronics and Mechanical engineering f
 
 ## Skills
 ### Software
-<div align="center">
-  ![ROS](https://img.shields.io/badge/-ROS%2FROS2-22314E?style=flat&logo=ros&logoColor=white)
-  ![Gazebo](https://img.shields.io/badge/-Gazebo-FF6600?style=flat&logo=gazebo&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-</div>  
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg", height="40" alt= "ros logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gazebo/gazebo-original.svg", height="40" alt= "gazebo logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg", height="40" alt= "docker logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg", height="40" alt= "pytorch logo"/>
+  <img width="12" />
+</div>
+
+### Languages
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg", height="40" alt= "cplusplus logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg", height="40" alt= "python logo"/>
+  <img width="12" /> 
+</div>
 ## Publication 
 
 1) [Servos for Local Map Exploration Onboard Nonholonomic Vehicles for Extremum Seeking](https://ieeexplore.ieee.org/document/11625974/keywords#keywords)
@@ -35,5 +44,10 @@ If you are a fellow researcher in the robotics/controls systems industry please 
   doi={10.1109/TCST.2026.3713366}}
 ```
 
-## 📈GitHub stats
-[![mattdamon1868](https://github-stats-extended.vercel.app/api?username=mattdamon1868)](https://github.com/stats-organization/github-stats-extended)
+### 📈Stats
+<!--[![mattdamon1868](https://github-stats-extended.vercel.app/api?username=mattdamon1868)](https://github.com/stats-organization/github-stats-extended)
+-->
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mattdamon1868&locale=en&mode=weekly&theme=sunset_gradient&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+</div>
