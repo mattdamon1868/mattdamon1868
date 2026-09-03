@@ -2,7 +2,7 @@
 
 Robotics engineer with a background in Mechatronics and Mechanical engineering focused in robotic control and autonomy. I am interested in autonomy, sensor fusion, and robot learning for autonomous systems. If you are in the *robotics software*, *motion control*, or *autonomy engineering* space I would love to connect.
 
-## 🎓 Education
+### 🎓 Education
 - M.S. Mechanical Engineering (Robotics & Control), San Diego State University, May 2024
 - B.S. Mechatronic Engineering, CSU Chico, May 2018
 
@@ -29,7 +29,7 @@ Robotics engineer with a background in Mechatronics and Mechanical engineering f
 </div>
 
 
-## Publication 
+### Publication 
 1) [Servos for Local Map Exploration Onboard Nonholonomic Vehicles for Extremum Seeking](https://ieeexplore.ieee.org/document/11625974/keywords#keywords)
 
 If you are a fellow researcher in the robotics/controls systems industry please use the following citation for the work.
