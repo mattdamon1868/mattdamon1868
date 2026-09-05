@@ -16,10 +16,6 @@ Robotics engineer with a background in Mechatronics and Mechanical engineering f
   <img width="12" />
 </div>
 
-### 🎓 Education
-- M.S. Mechanical Engineering (Robotics & Control), San Diego State University, May 2024
-- B.S. Mechatronic Engineering, CSU Chico, May 2018
-
 ### Languages
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg", height="40" alt= "cplusplus logo"/>
@@ -45,6 +41,11 @@ If you are a fellow researcher in the robotics/controls systems industry please 
   keywords={Image sensors;Vehicles;Modeling;Timing;Servomotors;Vectors;Convergence;Demodulation;Matrices;Terminology;Extremum seeking control (ESC);optimization;source seeking},
   doi={10.1109/TCST.2026.3713366}}
 ```
+
+### 🎓 Education
+- M.S. Mechanical Engineering (Robotics & Control), San Diego State University, May 2024
+- B.S. Mechatronic Engineering, CSU Chico, May 2018
+
 
 ### 📈Stats
 <!--[![mattdamon1868](https://github-stats-extended.vercel.app/api?username=mattdamon1868)](https://github.com/stats-organization/github-stats-extended)
